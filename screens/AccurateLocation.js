@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     fontFamily: "DMSans_700Bold",
   },
   message: {
-    fontSize: 16,
+    fontSize: 14,
     fontFamily: "DMSans_500Medium",
     textAlign: "center",
     marginHorizontal: 60,
